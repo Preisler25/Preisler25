@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preisler25
-- 👀 I’m interested in Penetration testing
-- 🌱 I’m currently learning Networking security basics
+- 👀 I’m interested in Back-end
+- 🌱 I’m currently learning Mobile development
 - 📫 DM me on insta @preisler_dev or email me on preisler.andras@gmail.com
 
 <!---
